@@ -1,8 +1,8 @@
-#SWIFT - Secure Ubuntu Interactive Framework
+# SWIFT - Secure Ubuntu Interactive Framework
 
 SWIFT is a Bash script designed to provide a secure and interactive framework for Ubuntu systems. It allows users to easily access and manage various security-related features and settings on their Ubuntu system.
 
-Features
+# Features
 SWIFT offers the following features:
 
 Users and Passwords: Display a list of users and their password details. Users can also enter a specific username to view their password details.
@@ -25,8 +25,8 @@ Crontab: Display the crontab details.
 Bad Programs: Identify and list potentially harmful programs.
 Firefox Settings: Configure various settings for the Firefox browser.
 OpenSSH Configuration: Configure OpenSSH settings.
-Usage
-To use SWIFT, follow these steps:
+# Usage
+# To use SWIFT, follow these steps:
 
 Open a terminal on your Ubuntu system.
 Navigate to the directory where the SWIFT script is located.
@@ -35,8 +35,8 @@ The main menu will be displayed, showing the available options.
 Choose an option by entering the corresponding letter or number.
 Follow the prompts and instructions provided by the script.
 Once you have completed an action, you will be returned to the main menu to choose another option or exit the program.
-Requirements
-SWIFT requires the following:
+# Requirements
+# SWIFT requires the following:
 
 Ubuntu operating system
 Bash shell
