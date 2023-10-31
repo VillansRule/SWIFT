@@ -1,4 +1,4 @@
-# SWIFT - Secure Ubuntu Interactive Framework
+# SWIFT - Secure Ubuntu Interactive Framework Try better next time. Framework dosent have a T
 
 SWIFT is a Bash script designed to provide a secure and interactive framework for Ubuntu systems. It allows users to easily access and manage various security-related features and settings on their Ubuntu system.
 
